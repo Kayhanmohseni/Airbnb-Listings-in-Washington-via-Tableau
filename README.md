@@ -8,6 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
+- [References](#references)
 
 ### Project Overview
 
@@ -17,8 +18,9 @@ By analyzing the data provided, we seek to find trends based on the location and
 ![Tableau Project Dashboard](https://github.com/user-attachments/assets/8b19b7d8-33e0-4fd0-b9cc-c0e5ce02aabe)
 
 ### Data Sources
-?????????????Layoffs Data: The primary dataset used for this analysis is the "layoffs.csv" file, containing information
-about the layoffs for each company and industry.??????????????????????????????????
+Airbnb Listings in Washington Data: The primary dataset used for this analysis is taken from Kaggle 
+which is listed in the references and contains information
+about Airbnb listings including their location, price, number of bedrooms, etc. 
 
 ### Tools
 
@@ -48,3 +50,7 @@ The analysis results are summarized as follows:
 2. Between May and June and towards the end of the year is the best time to list a property on Airbnb in Washington
 3. The average price of a listing based on the number of rooms is linear with 1 bedroom being about 96.2 per night
    and 6 bedrooms being about 584.8 per night
+
+### References
+
+1. https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
