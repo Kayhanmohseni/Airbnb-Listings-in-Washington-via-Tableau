@@ -20,7 +20,8 @@ Used Tableau to create dashboard visualizations for Airbnb listings in Washingto
 Cleaned layoffs data in SQL
 
 ### Data Sources
-
+Layoffs Data: The primary dataset used for this analysis is the "layoffs.csv" file, containing information
+about the layoffs for each company and industry.
 
 ### Tools
 
@@ -31,17 +32,17 @@ Cleaned layoffs data in SQL
 
 ### Data Cleaning
 
-In the initial data preparation phase, I performed the following tasks: 
-1. dwasd
-2. dada
+Most of the data was reliable. 
+I made minimal changes, only using Microsoft Excel to remove duplicates.
 
 ### Exploratory Data Analysis
 
 EDA involved exploring layoff data to answer key questions below:
 
-- dwswd
-- ddasd
-- dsda
+- What is the average price of the listings based on zip code?
+- What time of the year is best to list a property on Airbnb?
+- What is the average price of the listings based on the number of bedrooms?
+- What is the number of listings per number of bedrooms?
 
 
 ### Data Analysis
