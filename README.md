@@ -53,4 +53,5 @@ The analysis results are summarized as follows:
 
 ### References
 
-1. https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+1. Data set
+   - [Download here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
