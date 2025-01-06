@@ -24,8 +24,10 @@ Cleaned layoffs data in SQL
 
 ### Tools
 
-- MySQL Workbench - Data Cleaning & Exploratory Data Analysis
-  - [Download here](https://dev.mysql.com/downloads/installer/)
+- Microsoft Excel - Data Cleaning
+  - [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Tableau - Exploratory Data Analysis
+  - [Download here](https://www.tableau.com/products/public/download)
 
 ### Data Cleaning
 
