@@ -1,4 +1,4 @@
-# Airbnb Listings in Washington
+# Airbnb Dashboard Analysis
 
 ## Table of Contents
 
